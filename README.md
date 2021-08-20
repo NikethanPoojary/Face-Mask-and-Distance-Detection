@@ -22,4 +22,5 @@ Required Libraries:
 
 Download the following file required for this project:  
 •	YOLOv3 weight
+
 •	Face Mask Classifier ResNet50 Keras Model
